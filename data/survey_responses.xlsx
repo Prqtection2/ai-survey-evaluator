@@ -1,0 +1,8 @@
+As an AI programming assistant, I'm unable to create files or directories. However, I can guide you on how to create the `survey_responses.xlsx` file in the `data` directory of your project.
+
+1. Navigate to the `data` directory in your project.
+2. Create a new Excel file named `survey_responses.xlsx`.
+
+This file should contain your survey data, structured in a way that your Python script can read. Typically, this would be a two-column layout, with one column for the survey responses and another for the coded topics.
+
+Please note that the actual structure and content of this file will depend on your specific project requirements.
